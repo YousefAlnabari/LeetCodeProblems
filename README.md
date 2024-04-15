@@ -4,13 +4,7 @@
 Let's conquer those coding challenges together!**
 
 ## Solved Problems
-**Total: 6**
-<br>
-**Easy: 5/786**
-<br>
-**Medium: 1/1631**
-<br>
-**Hard: 0/692**
-<br>
-<br>
-[My LeetCode Profile](https://leetcode.com/YousefAlnabari/)
+<p>
+  <a href="https://leetcode.com/YousefAlnabari/"><img width="48%" src="https://leetcode.card.workers.dev/YousefAlnabari?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+  </a>
+</p>
