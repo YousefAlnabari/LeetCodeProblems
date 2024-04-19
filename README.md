@@ -1,7 +1,14 @@
 # LeetCode - Problems
-**Here, I'll solve all LeetCode problems in many languages like Java, Python, JavaScript, and more!
+Here, I'll solve all LeetCode problems in many languages like Java, Python, JavaScript, and more!
 <br>
-Let's conquer those coding challenges together!**
+Let's conquer those coding challenges together!
+<br>
+<br>
+<strong>
+If you want to use this repository you will need to change a Java file's names to valid names...
+<br>
+Because the main purpose of this repository is just to store my solutions or If someone needs to see my solution...
+</strong>
 
 ## Solved Problems
 <p>
